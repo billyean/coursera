@@ -1,0 +1,8 @@
+CHIP Sign {
+    IN in[16];
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+    And(a=in[15], b=in[15], out=out);
+}
