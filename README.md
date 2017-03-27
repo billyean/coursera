@@ -4,21 +4,21 @@ Check [here](http://nand2tetris.org) for deatils
 
 Current implementation includes first part of the course:
 
-* [X] Boolean Logic(./projects/01) - [Lecture](http://nand2tetris.org/01.php)
-* [X] Boolean Arithmetic(./projects/02) - [Lecture](http://nand2tetris.org/02.php)
-* [X] Sequential Logic(./projects/03) - [Lecture](http://nand2tetris.org/03.php)
-* [X] Machine Language(./projects/04) - [Lecture](http://nand2tetris.org/04.php)
-* [X] Computer Architecture(./projects/05) - [Lecture](http://nand2tetris.org/05.php)
-* [X] Assembler(./projects/06) - [Lecture](http://nand2tetris.org/06.php)
+* [X] [Boolean Logic](./projects/01) - [Lecture](http://nand2tetris.org/01.php)
+* [X] [Boolean Arithmetic](./projects/02) - [Lecture](http://nand2tetris.org/02.php)
+* [X] [Sequential Logic](./projects/03) - [Lecture](http://nand2tetris.org/03.php)
+* [X] [Machine Language](./projects/04) - [Lecture](http://nand2tetris.org/04.php)
+* [X] [Computer Architecture](./projects/05) - [Lecture](http://nand2tetris.org/05.php)
+* [X] [Assembler](./projects/06) - [Lecture](http://nand2tetris.org/06.php)
 
 Below code has not implemented:
 
-* [ ] VM I: Stack Arithmetic - [Lecture](http://nand2tetris.org/07.php)
-* [ ] VM II: Program Control - [Lecture](http://nand2tetris.org/08.php)
-* [ ] High-Level Language - [Lecture](http://nand2tetris.org/09.php)
-* [ ] Compiler I: Syntax Analysis - [Lecture](http://nand2tetris.org/10.php)
-* [ ] Compiler II: Code Generation - [Lecture](http://nand2tetris.org/11.php)
-* [ ] Operating System - [Lecture](http://nand2tetris.org/12.php)
+* [ ] [VM I: Stack Arithmetic] - [Lecture](http://nand2tetris.org/07.php)
+* [ ] [VM II: Program Control] - [Lecture](http://nand2tetris.org/08.php)
+* [ ] [High-Level Language] - [Lecture](http://nand2tetris.org/09.php)
+* [ ] [Compiler I: Syntax Analysis] - [Lecture](http://nand2tetris.org/10.php)
+* [ ] [Compiler II: Code Generation] - [Lecture](http://nand2tetris.org/11.php)
+* [ ] [Operating System] - [Lecture](http://nand2tetris.org/12.php)
 
 ## License
 
