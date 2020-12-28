@@ -15,9 +15,9 @@
 * 每输入一个字符，即时转换并在屏幕上显示，
 * 支持反复输入，直到按“?”键结束程序。
 
-|| ||     ||  ||         ||   ||     ||  ||      ||  ||        ||
-|--|-------|---|----------|---|-------|---|-------|---|---------|
+
 |A | Alpha | N | November | 1 | First | a | alpha | n | november|
+| -- | ------- | --- | ---------- | --- | ------- | --- | ------- | --- | --------- |
 |B | Bravo | O | Oscar    | 2 | Second| b	| bravo	| o	| oscar   |
 |C | China | P | Paper    | 3 | Third | c	| china	| p	| paper   |
 |D | Delta | Q | Quebec   | 4 | Fourth| d	| delta	| q	| quebec  |
