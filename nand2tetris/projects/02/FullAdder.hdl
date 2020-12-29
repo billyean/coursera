@@ -14,6 +14,7 @@ CHIP FullAdder {
 
     PARTS:
     // Put you code here:
+    /**
     Xor(a=a, b=b, out=aXorb);
     Xor(a=aXorb, b=c, out=sum);
     And(a=a, b=b, out=aAndb);
@@ -21,4 +22,12 @@ CHIP FullAdder {
     And(a=b, b=c, out=bAndc);
     Or(a=aAndb, b=aAndc, out=temp);
     Or(a=temp, b=bAndc, out=carry);
+    */
+
+    // Optimize version
+    Xor(a=a, b=b, out=aXorb);
+    Xor(a=aXorb, b=c, out=sum);
+    And(a=aXorb, b=c, out=aXorbAndc);
+    And(a=a, b=b, out=aAndb);
+    Or(a=aXorbAndc, b=aAndb, out=carry);
 }
